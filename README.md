@@ -3,4 +3,4 @@ this privet DNS  will block your add from your phone when you run any thard part
 
 # The DNS
 
-#dns.adguard.com
+dns.adguard.com
